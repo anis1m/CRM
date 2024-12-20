@@ -1,0 +1,432 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anism\\source\\repos\\CRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\controllers\\partscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\services\\partsmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\services\\partsmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\connection\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\connection\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\repository\\ipartsmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\repository\\ipartsmaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\parts_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\parts_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\boiler_series_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\boiler_series_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\boiler_series_parts_mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\boiler_series_parts_mapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\boiler_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\boiler_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\customer_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\customer_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\customer_pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\customer_pricing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\gst_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\gst_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\hsn_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\hsn_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\packing_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\packing_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\sub_category_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\sub_category_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\technician_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\technician_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\unit_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\unit_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\currency_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\currency_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\courier_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\courier_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\models\\category_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\models\\category_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|c:\\users\\anism\\source\\repos\\crm\\crm\\crm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3AD9482-63E5-4642-BABA-466BABC7108C}|CRM\\CRM.csproj|solutionrelative:crm\\crm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartsController.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Controllers\\PartsController.cs",
+              "RelativeDocumentMoniker": "CRM\\Controllers\\PartsController.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Controllers\\PartsController.cs",
+              "RelativeToolTip": "CRM\\Controllers\\PartsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T11:40:07.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartsMaster.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Services\\PartsMaster.cs",
+              "RelativeDocumentMoniker": "CRM\\Services\\PartsMaster.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Services\\PartsMaster.cs",
+              "RelativeToolTip": "CRM\\Services\\PartsMaster.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T07:01:52.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IPartsMaster.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Repository\\IPartsMaster.cs",
+              "RelativeDocumentMoniker": "CRM\\Repository\\IPartsMaster.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Repository\\IPartsMaster.cs",
+              "RelativeToolTip": "CRM\\Repository\\IPartsMaster.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T06:54:18.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Connection\\DatabaseContext.cs",
+              "RelativeDocumentMoniker": "CRM\\Connection\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Connection\\DatabaseContext.cs",
+              "RelativeToolTip": "CRM\\Connection\\DatabaseContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T03:20:26.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\appsettings.json",
+              "RelativeDocumentMoniker": "CRM\\appsettings.json",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\appsettings.json",
+              "RelativeToolTip": "CRM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T02:44:43.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRM\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Controllers\\HomeController.cs*",
+              "RelativeToolTip": "CRM\\Controllers\\HomeController.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T02:42:27.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "CRM\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Repository\\IRepository.cs",
+              "RelativeToolTip": "CRM\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:26:36.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CRM.csproj",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\CRM.csproj",
+              "RelativeDocumentMoniker": "CRM\\CRM.csproj",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\CRM.csproj",
+              "RelativeToolTip": "CRM\\CRM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-19T00:24:46.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Technician_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Technician_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Technician_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Technician_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Technician_Master.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:38:14.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Customer_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Customer_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Customer_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Customer_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Customer_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:26:42.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Courier_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Courier_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Courier_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Courier_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Courier_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:19:54.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Boiler_Series_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Boiler_Series_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Boiler_Series_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Boiler_Series_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Boiler_Series_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:08:06.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Boiler_Series_Parts_Mapping.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Boiler_Series_Parts_Mapping.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Boiler_Series_Parts_Mapping.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Boiler_Series_Parts_Mapping.cs",
+              "RelativeToolTip": "CRM\\Models\\Boiler_Series_Parts_Mapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:56:41.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Boiler_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Boiler_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Boiler_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Boiler_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Boiler_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:49:16.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Parts_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Parts_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Parts_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Parts_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Parts_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:34:15.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GST_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\GST_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\GST_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\GST_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\GST_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:32:06.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Customer_Pricing.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Customer_Pricing.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Customer_Pricing.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Customer_Pricing.cs",
+              "RelativeToolTip": "CRM\\Models\\Customer_Pricing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:30:49.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Currency_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Currency_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Currency_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Currency_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Currency_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:29:28.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Packing_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Packing_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Packing_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Packing_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Packing_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:28:38.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Unit_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Unit_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Unit_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Unit_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Unit_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:27:52.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HSN_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\HSN_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\HSN_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\HSN_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\HSN_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:26:42.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Sub_Category_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Sub_Category_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Sub_Category_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Sub_Category_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Sub_Category_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T15:25:52.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Category_Master.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Category_Master.cs",
+              "RelativeDocumentMoniker": "CRM\\Models\\Category_Master.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Models\\Category_Master.cs",
+              "RelativeToolTip": "CRM\\Models\\Category_Master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T08:04:12.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Program.cs",
+              "RelativeDocumentMoniker": "CRM\\Program.cs",
+              "ToolTip": "C:\\Users\\anism\\source\\repos\\CRM\\CRM\\Program.cs",
+              "RelativeToolTip": "CRM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T07:03:48.48Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
